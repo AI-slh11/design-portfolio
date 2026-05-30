@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#103f3b"/>
+  <rect x="60" y="60" width="960" height="960" rx="56" fill="#0f6f67"/>
+  <circle cx="846" cy="214" r="148" fill="#efb43f"/>
+  <circle cx="178" cy="856" r="190" fill="#f36a43"/>
+  <text x="112" y="154" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="800" letter-spacing="6" fill="#ffffff">FRESHFIT</text>
+  <text x="112" y="362" font-family="Inter, Arial, sans-serif" font-size="116" font-weight="900" fill="#ffffff">7-Day</text>
+  <text x="112" y="480" font-family="Inter, Arial, sans-serif" font-size="116" font-weight="900" fill="#ffffff">Reset</text>
+  <text x="116" y="572" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="600" fill="#d7f3eb">Meal prep, habit tracking, and guided workouts for busy adults.</text>
+  <rect x="112" y="692" width="314" height="86" rx="43" fill="#efb43f"/>
+  <text x="269" y="748" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="900" fill="#103f3b">JOIN NOW</text>
+  <rect x="618" y="650" width="294" height="250" rx="34" fill="#ffffff" opacity="0.96"/>
+  <text x="765" y="724" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900" fill="#103f3b">STARTS</text>
+  <text x="765" y="817" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="900" fill="#f36a43">MON</text>
+</svg>
