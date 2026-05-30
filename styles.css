@@ -367,6 +367,35 @@ img.mock {
   gap: 16px;
 }
 
+.social-proof {
+  padding-bottom: 26px;
+}
+
+.instagram-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 24px;
+  align-items: end;
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: #fff;
+  background:
+    linear-gradient(135deg, rgba(200, 61, 46, 0.45), transparent 48%),
+    linear-gradient(315deg, rgba(49, 95, 159, 0.34), transparent 52%),
+    var(--dark);
+}
+
+.instagram-card p {
+  max-width: 52rem;
+  color: rgba(255, 255, 255, 0.76);
+}
+
+.instagram-card h3 {
+  margin: 8px 0 10px;
+  font-size: clamp(1.8rem, 3vw, 3rem);
+}
+
 .web-card {
   display: grid;
   align-content: start;
@@ -745,6 +774,7 @@ img.mock {
   .hero,
   .work-grid,
   .web-grid,
+  .instagram-card,
   .split,
   .steps,
   .contact {
@@ -810,6 +840,10 @@ img.mock {
 
   .contact {
     padding: 24px;
+  }
+
+  .instagram-card .button {
+    width: 100%;
   }
 
   .footer {
