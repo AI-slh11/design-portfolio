@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#efe7d8"/>
+  <ellipse cx="600" cy="1015" rx="330" ry="58" fill="#000000" opacity="0.12"/>
+  <path d="M382 165h436l54 820c4 62-45 115-107 115H435c-62 0-111-53-107-115l54-820z" fill="#fff9e8" stroke="#314d40" stroke-width="8"/>
+  <path d="M412 208h376l22 196H390l22-196z" fill="#314d40"/>
+  <text x="600" y="312" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="900" letter-spacing="6" fill="#fff9e8">GLOWTEA</text>
+  <rect x="420" y="500" width="360" height="330" rx="34" fill="#0e7168"/>
+  <text x="600" y="595" text-anchor="middle" font-family="Georgia, serif" font-size="66" fill="#fff9e8">Mint</text>
+  <text x="600" y="668" text-anchor="middle" font-family="Georgia, serif" font-size="66" fill="#fff9e8">Citrus</text>
+  <text x="600" y="734" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="3" fill="#d9f1d8">HERBAL INFUSION</text>
+  <circle cx="473" cy="890" r="44" fill="#f3bd42"/>
+  <circle cx="565" cy="890" r="44" fill="#98bd65"/>
+  <circle cx="657" cy="890" r="44" fill="#f3bd42"/>
+  <circle cx="749" cy="890" r="44" fill="#98bd65"/>
+</svg>
