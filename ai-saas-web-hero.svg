@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#181b20"/>
+  <rect x="70" y="70" width="1260" height="760" rx="36" fill="#f7f5ef"/>
+  <rect x="110" y="112" width="1180" height="72" rx="16" fill="#ffffff"/>
+  <circle cx="154" cy="148" r="11" fill="#c83d2e"/>
+  <circle cx="188" cy="148" r="11" fill="#d69a2d"/>
+  <circle cx="222" cy="148" r="11" fill="#0e7168"/>
+  <text x="110" y="292" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900" letter-spacing="6" fill="#c83d2e">AI OPERATIONS DASHBOARD</text>
+  <text x="110" y="405" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="900" fill="#171717">Turn support tickets</text>
+  <text x="110" y="492" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="900" fill="#171717">into resolved tasks.</text>
+  <text x="110" y="575" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="600" fill="#67645e">Landing page hero graphic for a SaaS product using clean hierarchy and product-first layout.</text>
+  <rect x="110" y="650" width="260" height="78" rx="39" fill="#c83d2e"/>
+  <text x="240" y="700" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900" fill="#ffffff">Book demo</text>
+  <rect x="800" y="262" width="405" height="430" rx="26" fill="#ffffff" stroke="#d9d1c3" stroke-width="3"/>
+  <rect x="842" y="318" width="240" height="22" rx="11" fill="#171717"/>
+  <rect x="842" y="382" width="300" height="22" rx="11" fill="#d9d1c3"/>
+  <rect x="842" y="432" width="245" height="22" rx="11" fill="#d9d1c3"/>
+  <rect x="842" y="510" width="120" height="120" rx="20" fill="#0e7168"/>
+  <rect x="992" y="510" width="150" height="120" rx="20" fill="#d69a2d"/>
+</svg>
